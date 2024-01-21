@@ -1,5 +1,21 @@
 # Turtle Hide and Seek Game
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Features](#features)
+   1. [Maps](#maps)
+   2. [Levels](#levels)
+3. [How to Play](#how-to-play)
+4. [Coding Methods and Algorithms](#coding-methods-and-algorithms)
+   1. [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
+   2. [Random Positioning](#random-positioning)
+   3. [User Input Handling](#user-input-handling)
+   4. [Algorithmic Logic](#algorithmic-logic)
+5. [Map Selection](#map-selection)
+6. [Level Selection](#level-selection)
+7. [Acknowledgments](#acknowledgments)
+8. [Author](#author)
+
 ## Introduction
 
 Welcome to the Turtle Hide and Seek Game! This Python-based game utilizes the turtle module to create an interactive hide and seek experience. The game allows players to explore different maps, such as the Park, Living Room, and Garage, where a turtle hides in various positions, and the player must guess the correct location.
